@@ -1,4 +1,4 @@
-# Windows Manager
+# Enviroment Picker
 
 Enviroment Picker is a simple application developed in Python using the Tkinter library for the graphical interface. This application allows you to manage workspaces on your computer in a simple and efficient way.
 
@@ -17,11 +17,11 @@ Enviroment Picker is a simple application developed in Python using the Tkinter 
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your_username/windows-manager.git
+git clone https://github.com//Felipe-Araya-Becerra/Enviroment-Picker.git
 
 2. Navigate to the project directory:
 
-cd windows-manager
+cd enviroment-picker
 
 3. Install the necessary dependencies:
 
